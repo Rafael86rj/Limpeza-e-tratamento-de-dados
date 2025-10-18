@@ -13,6 +13,16 @@ Realizar um processo completo de limpeza e tratamento em uma base de dados para 
 * **NumPy** (Suporte para operações numéricas)
 * **Seaborn/Matplotlib** (Para visualizações como Boxplot)
 
+---
+
+## 🔎 Visualizar o Projeto Completo (Notebook)
+
+Para ver o **código completo**, as **saídas das células** e a **análise detalhada** de cada etapa de limpeza e tratamento, acesse o notebook do projeto:
+
+* [**Abrir o Notebook: Limpeza_e_Tratamento_de_Dados.ipynb**](https://github.com/Rafael86rj/Limpeza-e-tratamento-de-dados/blob/315d2d2a985b236e9a2a6a379a94c78e1c3ce94d/Limpeza_e_Tratamento_de_Dados.ipynb)
+
+---
+
 ## 📋 Tópicos Abordados (Checklist de Tarefas)
 
 O projeto engloba as seguintes técnicas e operações cruciais no tratamento de dados:
@@ -53,17 +63,10 @@ O projeto engloba as seguintes técnicas e operações cruciais no tratamento de
 
 ---
 
-# 📚 Referências e Materiais de Apoio
+## 📚 Referências e Materiais de Apoio
 
 | Material | Tipo | Idioma | Conteúdo Chave |
 | :--- | :--- | :--- | :--- |
 | **Python para análise de dados** | Livro (Pago) | Português | Guia completo sobre manipulação, processamento, limpeza e análise de dados com NumPy, Pandas e Matplotlib. |
 | **[Melhorando a análise com o boxplot (Alura)](https://www.alura.com.br/artigos/melhorando-a-analise-com-o-boxplot)** | Artigo (Gratuito) | Português | Explica o uso do boxplot (quartis) como recurso estatístico para melhorar a análise e identificar outliers, com exemplos em Python e Seaborn. |
 | **[API Reference (Pandas)](https://pandas.pydata.org/docs/reference/index.html)** | Documentação (Gratuito) | Inglês | Documentação oficial com exemplos de códigos e detalhes de todas as funcionalidades da biblioteca Pandas. |
-
-
-## 🔎 Visualizar o Projeto Completo
-
-Para ver o **código completo**, as **saídas das células** e a **análise detalhada** de cada etapa de limpeza e tratamento, acesse o notebook do projeto:
-
-* [**Abrir o Notebook: Limpeza e Tratamento de Dados.ipynb**](https://github.com/Rafael86rj/Limpeza-e-tratamento-de-dados/blob/315d2d2a985b236e9a2a6a379a94c78e1c3ce94d/Limpeza_e_Tratamento_de_Dados.ipynb)

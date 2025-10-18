@@ -60,3 +60,10 @@ O projeto engloba as seguintes técnicas e operações cruciais no tratamento de
 | **Python para análise de dados** | Livro (Pago) | Português | Guia completo sobre manipulação, processamento, limpeza e análise de dados com NumPy, Pandas e Matplotlib. |
 | **[Melhorando a análise com o boxplot (Alura)](https://www.alura.com.br/artigos/melhorando-a-analise-com-o-boxplot)** | Artigo (Gratuito) | Português | Explica o uso do boxplot (quartis) como recurso estatístico para melhorar a análise e identificar outliers, com exemplos em Python e Seaborn. |
 | **[API Reference (Pandas)](https://pandas.pydata.org/docs/reference/index.html)** | Documentação (Gratuito) | Inglês | Documentação oficial com exemplos de códigos e detalhes de todas as funcionalidades da biblioteca Pandas. |
+
+
+## 🔎 Visualizar o Projeto Completo
+
+Para ver o **código completo**, as **saídas das células** e a **análise detalhada** de cada etapa de limpeza e tratamento, acesse o notebook do projeto:
+
+* [**Abrir o Notebook: Limpeza e Tratamento de Dados.ipynb**](./Limpeza_e_Tratamento_de_Dados.ipynb)

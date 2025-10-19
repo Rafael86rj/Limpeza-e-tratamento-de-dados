@@ -19,7 +19,7 @@ Realizar um processo completo de limpeza e tratamento em uma base de dados para 
 
 Para ver o **código completo**, as **saídas das células** e a **análise detalhada** de cada etapa de limpeza e tratamento, acesse o notebook do projeto:
 
-* [**Abrir o Notebook: Limpeza_e_Tratamento_de_Dados.ipynb**](https://github.com/Rafael86rj/Limpeza-e-tratamento-de-dados/blob/315d2d2a985b236e9a2a6a379a94c78e1c3ce94d/Limpeza_e_Tratamento_de_Dados.ipynb)
+* [**Abrir o Notebook: Limpeza_e_Tratamento_de_Dados.ipynb**](https://github.com/Rafael86rj/Limpeza-e-tratamento-de-dados/blob/4c311354e417eee8baadc8d3909d1f3a8868bcad/Limpeza_e_Tratamento_de_Dados.ipynb)
 
 ---
 
